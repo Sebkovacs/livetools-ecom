@@ -3,7 +3,7 @@ const Logo = ({ className = '', ...props }) => (
   className={className}
   {...props}
   src="/livetools-logo.jpg">
-  </img>>
+  </img>
 
 )
 
